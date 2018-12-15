@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1514289708 source:d:\program files (x86)\balancebinarytree\main.cpp
+	"operations_BBST.h"
+
+1514611848 d:\program files (x86)\balancebinarytree\operations_bbst.h
+	<stdio.h>
+	<stdlib.h>
+
+1514612432 source:d:\program files (x86)\balancebinarytree\operations_bbst.cpp
+	"operations_BBST.h"
+
+1516022181 source:d:\program files (x86)\codeblocks_fikes\balancebinarytree\main.cpp
+	"operations_BBST.h"
+	<stdlib.h>
+
+1514735396 d:\program files (x86)\codeblocks_fikes\balancebinarytree\operations_bbst.h
+	<stdio.h>
+	<stdlib.h>
+
+1516022181 source:d:\program files (x86)\codeblocks_fikes\balancebinarytree\operations_bbst.cpp
+	"operations_BBST.h"
+
